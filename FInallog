@@ -1,0 +1,8 @@
+GEOM99 Web Development Log
+Step:1
+•	6th  March 2024,7:10 to 7:12 PM
+•	First login into the Google account where you have the Google credit -> First log in to https://console.cloud.google.com/and -> go then go to the  project My First project (I don’t have a project so I created the project -> Go to this project name tab and open -> click to the new project tab fill the details with location No organization.) 
+
+ 
+•	In the next step I enable the compute engine API and then set the services for this VM.
+•	Resources: Google Cloud Platform console: https://console.cloud.google.com/
